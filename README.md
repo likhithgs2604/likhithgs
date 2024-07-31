@@ -1,6 +1,6 @@
-Hi 👋 I'm LIKHITH G S 
+<h1 align="center">Hi 👋 I'm LIKHITH G S </h1> 
 
- A passionate QA Engineer 
+<h3 align="center"> A passionate QA Engineer <?h3>
 
 # 💫 About Me:
 •📖 I'm currently learning Software Testing.<br><br>•🧑‍💻I'm currently working at Snapbizz Cloudtech Private Limited.<br><br>• 📃Check out my resume here: [Resume](https://drive.google.com/file/d/1yQlO6WHZdC-M41zy8_4F0zd-8j_XQutU/view?usp=drivesdk)<br><br>• 💬Ask me about Java Programming, Manual Testing , Api Testing , Sql , Selenium.<br><br>•📩 Reach out to me at likhithgs2604@gmail.com
